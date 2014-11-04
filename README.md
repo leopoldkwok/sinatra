@@ -1,1 +1,1 @@
-getting familiar with Sinatra 
+Getting familiar with Sinatra 
